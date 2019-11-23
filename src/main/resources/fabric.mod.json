@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.mkuzmin.creativity.Main"
+      "com.mkuzmin.creativity.CreativityMod"
     ]
   },
   "depends": {
