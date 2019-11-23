@@ -1,0 +1,21 @@
+{
+    "textures": {
+        "particle": "creativity:block/pizza_side",
+        "bottom": "creativity:block/pizza_bottom",
+        "top": "creativity:block/pizza_top",
+        "side": "creativity:block/pizza_side"
+    },
+    "elements": [
+        {   "from": [ 1, 0, 1 ],
+            "to": [ 15, 1, 15 ],
+            "faces": {
+                "down":  { "texture": "#bottom", "cullface": "down" },
+                "up":    { "texture": "#top" },
+                "north": { "texture": "#side" },
+                "south": { "texture": "#side" },
+                "west":  { "texture": "#side" },
+                "east":  { "texture": "#side" }
+            }
+        }
+    ]
+}
