@@ -1,5 +1,7 @@
 # Creativity Mod by KuzMax
 
+Currently supported Minecraft version: 1.14.4
+
 ## Features:
 
 Pizza:
